@@ -1,0 +1,305 @@
+
+#imagen1
+{
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+    box-shadow: 10px 0px 10px #939393;
+    
+}
+#face img
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 94%;
+  margin-left:1%;
+}
+#t img
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 94%;
+  margin-left:5%;
+}
+#w img
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 94%;
+  margin-left:9%;
+}
+
+body
+{
+    background-color: #E0FFFF;
+}     
+
+
+.vis
+
+{
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+background-color: #F0E68C;
+    float:right;
+    font-size: 15px;
+    text-align: center;
+    font-family: MV Boli;
+    box-shadow: 5px 10px 10px  #939393;
+    right: auto;
+    
+}
+#footer
+{
+        position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 100%;
+	height: 100px;
+	background-color:#F0E68C;
+	margin-bottom: 10px;
+        border-radius: 5px;
+    
+}
+#menu
+{
+    width: 200px;
+    margin-top: 40px;
+    
+    
+}
+#menu ul
+{
+   list-style: none;
+}
+#menu ul li
+{
+    margin-top: 15px;
+    font-family:  MV Boli;
+    font-size: 20px;
+    background-color: #F0E68C;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px 20px 20px 20px;
+    padding-right: 1px;
+   box-shadow: 10px 0px 10px #939393;
+   -webkit-transition: padding-left 0.6s;   
+}
+#menu ul li:hover
+{
+    padding-left: 50px;
+}
+
+#reg
+{
+    position: absolute;
+    margin-top:150px; 
+    margin-left:1%;
+ 
+
+}
+
+
+#reg ul
+{
+   list-style: none;
+}
+#reg ul li
+{
+    margin-top: 15px;
+    font-family:  MV Boli;
+   font-size: 20px;
+    background-color: #F0E68C;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px 20px 20px 20px;
+    padding-right: 1px;
+   box-shadow: 10px 0px 10px #939393;
+   -webkit-transition: padding-left 0.6s;   
+}
+#reg ul li:hover
+{
+    padding-left: 50px;
+}
+
+
+
+
+#log
+{
+    
+    text-align: center;
+    width: 250px;
+    height: auto;
+    border: 2px solid black;
+border-radius: 5px;
+    box-shadow: 5px 10px 10px  #939393;
+    font-family: sans-serif;
+   background-color:#F0E68C;
+    position: absolute;
+}
+#footer p
+{
+   text-align: center;
+   font-size: 15px;
+    
+}
+a
+{
+    text-decoration: none;
+    color: #000;
+}
+
+.in
+{
+    text-align: center;
+    width: 500px;
+   height: auto;
+border: 2px solid black;
+border-radius: 5px;
+    box-shadow: 5px 10px 10px  #939393;
+    margin-top:-100px;
+	margin-left:375px;
+    font-family: sans-serif;
+    background-color: #F0E68C;
+    
+   
+}
+.in1
+{
+     position: absolute;
+  top: 40%;
+  margin-left: 32%;
+  font-family: MV Boli;
+  text-align: center;
+    width: 500px;
+   height: auto;
+border: 2px solid black;
+border-radius: 5px;
+    box-shadow: 5px 10px 10px  #939393;
+	margin-left:375px;
+    font-family: sans-serif;
+    background-color: #F0E68C;
+  
+}
+
+
+#pro table{
+    height: auto;
+ margin-top:-40px;
+ border: 2px solid black;
+border-radius: 5px;
+	background-color: #3e882f; 
+        font-size: 15px;
+    text-align: center;
+    font-family: MV Boli;
+	
+}
+#lista
+{
+  position: absolute;
+  top: 50%;
+  margin-left: 25%;
+  font-family: MV Boli;
+  background-color: #F0E68C; 
+}
+#lista2
+{
+  position: absolute;
+  top: 50%;
+  margin-left: 30%;
+    font-family: MV Boli;
+     background-color:#F0E68C; 
+}
+#lista2 img
+{
+  width: 100%;
+  height:50%;
+}
+#lista4
+{
+  position: absolute;
+  top: 50%;
+  margin-left: 23%;
+  font-family: MV Boli;
+  background-color: #F0E68C; 
+}
+#lista5
+{
+ background-color: #F0E68C; 
+position: absolute;
+  top: 55%;
+  margin-left: 33%;
+  font-family: MV Boli;
+}
+#lista6
+{
+  position: absolute;
+  top: 40%;
+  margin-left: 35%;
+  font-family: MV Boli;
+  background-color: #F0E68C; 
+}
+#lista7
+{
+  position: absolute;
+  top: 50%;
+  margin-left: 40%;
+  font-family: MV Boli;
+   background-color: #F0E68C; 
+}
+
+#cli
+{
+   font-family: MV Boli;
+    
+}
+#admin{
+   
+    text-align: center;
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 10px 10px  #939393;
+    font-family: sans-serif;
+    background-color: #F0E68C;
+    position: absolute;
+    margin-left: 35%;
+}
+#visitante{
+    position: absolute;
+    top: 38%;
+  margin-left: 30%;
+}
+#lista10
+{
+  position: absolute;
+  top: 60%;
+  font-family: MV Boli;
+ 
+}
+#lista12
+{
+  position: absolute;
+  top: 50%;
+  margin-left: 40%;
+  font-family: MV Boli;
+  background-color:#F0E68C; 
+}
+#lista13
+{
+  position: absolute;
+  top: 61%;
+  margin-left: 40%;
+  font-family: MV Boli;
+  background-color:#F0E68C;
+   border: 1px solid black;
+}
